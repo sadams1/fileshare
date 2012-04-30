@@ -1,0 +1,29 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See http://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  hello: "Hello world"
+  welcome: "Welcome to DocXchange"
+  app: "DocXchange"
+  sub_heading: ""
+  folder_delete: "Successfully deleted the folder and all the contents inside."
+  folder_update: "Successfully updated folder."
+  folder_create: "Successfully created folder."
+  asset_upload: "Successfully uploaded the file."
+  asset_update: "Successfully updated asset."
+  asset_delete: "Successfully deleted the file."
+  home: "Home"
+
+pl:
+  hello: "Hello world"
+  welcome: "elcomewa ota ocXchangeda"
+  app: "ocXchange"
+  sub_heading: "Can't touch this! unless you sign in"
+  folder_delete: "Successfully deleted the folder and all the contents inside."
+  folder_update: "Successfully updated folder."
+  folder_create: "Successfully created folder."
+  asset_upload: "Successfully uploaded the file."
+  asset_update: "Successfully updated asset."
+  asset_delete: "Successfully deleted the file."
+
+

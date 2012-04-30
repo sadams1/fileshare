@@ -1,0 +1,11 @@
+pl:
+  hello: "Hello world"
+  welcome: "elcomewa ota ocXchangeda"
+  app: "ocXchangeDa"
+  sub_heading: ""
+  folder_delete: "uccessfullysa eletedds the folder and all the contents inside."
+  folder_update: "Successfully updated folder."
+  folder_create: "Successfully created folder."
+  asset_upload: "Successfully uploaded the file."
+  asset_update: "Successfully updated asset."
+  asset_delete: "Successfully deleted the file."

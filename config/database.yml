@@ -1,0 +1,32 @@
+development:
+  adapter: mysql
+  encoding: utf8
+  reconnect: false
+  database: sharebox_development
+  pool: 5
+  username: root
+  password:
+  host: localhost
+  socket: /tmp/mysql.sock
+
+test:
+  adapter: mysql
+  encoding: utf8
+  reconnect: false
+  database: sharebox_test
+  pool: 5
+  username: root
+  password:
+  host: localhost
+  socket: /tmp/mysql.sock
+
+production:
+  adapter: mysql
+  encoding: utf8
+  reconnect: false
+  database: sharebox_production
+  pool: 5
+  username: root
+  password:
+  host: localhost
+
