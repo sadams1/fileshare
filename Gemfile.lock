@@ -71,6 +71,7 @@ GEM
       activesupport (>= 2.3.2)
       cocaine (>= 0.0.2)
       mime-types
+    pg (0.13.2)
     polyglot (0.3.3)
     postgres-pr (0.6.3)
     rack (1.2.5)
@@ -123,6 +124,7 @@ DEPENDENCIES
   mocha
   nifty-generators
   paperclip (~> 2.3)
+  pg
   postgres-pr
   rails (= 3.0.3)
   ruby-mysql

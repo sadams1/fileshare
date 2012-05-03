@@ -1,7 +1,15 @@
 source 'http://rubygems.org'
 
+#for local and heroku development
+group :development, :test do
+  gem 'ruby-mysql'
+end
+group :production do
+  gem 'pg'
+end
+
 gem 'rails', '3.0.3'
-gem 'ruby-mysql'
+#gem 'ruby-mysql'
 
 #for user authentication
 gem 'devise'
