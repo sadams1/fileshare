@@ -24,3 +24,6 @@ gem "jquery-rails"
 
 #for heroku postgre
 gem "postgres-pr"
+
+#for help with db and pg
+gem "taps"
