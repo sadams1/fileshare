@@ -21,3 +21,6 @@ gem "acts_as_tree"
 
 #for preventing CSRF attacks
 gem "jquery-rails"
+
+#for heroku postgre
+gem "postgres-pr"
