@@ -21,7 +21,7 @@ test:
   socket: /tmp/mysql.sock
 
 production:
-  adapter: mysql
+ # adapter: mysql
   encoding: utf8
   reconnect: false
   database: sharebox_production
